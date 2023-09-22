@@ -1,16 +1,13 @@
-### Hi there 👋
+**SEJA BEM VINDO!!**
 
-<!--
-**AshSantoss/AshSAntoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eu me chamo Ashley Santos**
 
-Here are some ideas to get you started:
+Eu utilizo esse site: [Alura](alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Pode entrar em contato por esse gmail:
+
+alice.adao.santos@escola.pr.com.br
+
+
+![](https://media.tenor.com/lASf77ZH0pwAAAAd/gto-retro-anime.gif)
